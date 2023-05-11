@@ -20,7 +20,7 @@
 						"version": "7a6f5387cea37c915a15b50a16214cd7"
 					},
 					{
-						"id": "channel:category2",
+						"id": "channel:encanto",
 						"version": "7a6f5387cea37c915a15b50a16214cd7"
 					}
 				],
@@ -67,7 +67,7 @@
 		},
 		{
 			"setNode": {
-				"id": "episode:testvideo3",
+				"id": "episode:encanto1",
 				"version": "649f671be9bd0e2bf9fa18d73de07d57",
 				"type": "episode",
 				"number": 1,
@@ -75,8 +75,7 @@
 				"title": "Title go here",
 				"description": "Description go here",
 				"mediaUrls": {
-					"en": "https://place_your_video_link_here.com/video_file.moflex",
-					"fr": "https://place_your_video_link_here.com/video_file.moflex"
+					"en": "https://dl.dropboxusercontent.com/s/hokukj07q4ul1eu/mommytheceilingfanfellagain.moflex?dl=0"
 				},
 				"viewCount": 111,
 				"imageUrls": {
@@ -87,16 +86,15 @@
 		},
 		{
 			"setNode": {
-				"id": "episode:testvideo4",
+				"id": "episode:madagascar3",
 				"version": "649f671be9bd0e2bf9fa18d73de07d57",
 				"type": "episode",
 				"number": 2,
 				"ageRate": 0,
-				"title": "Title go here",
-				"description": "Description go here",
+				"title": "Madagascar 3 - Europes Most Wanted",
+				"description": "Your favorite shitpost part 3",
 				"mediaUrls": {
-					"en": "https://place_your_video_link_here.com/video_file.moflex",
-					"fr": "https://place_your_video_link_here.com/video_file.moflex"
+					"en": "https://archive.org/download/theozyshop/Watch/rasputin.moflex"
 				},
 				"viewCount": 111,
 				"imageUrls": {
@@ -131,7 +129,7 @@
 		},
 		{
 			"setNode": {
-				"id": "channel:category2",
+				"id": "channel:encanto",
 				"type": "channel",
 				"title": "Your videos!",
 				"eshopLinks": "",
@@ -140,11 +138,11 @@
 				},
 				"children": [
 					{
-						"id": "episode:testvideo3",
+						"id": "episode:encanto1",
 						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
 					},
 					{
-						"id": "episode:testvideo4",
+						"id": "episode:madagascar3",
 						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
 					}
 				],
