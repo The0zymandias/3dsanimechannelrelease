@@ -15,7 +15,7 @@ function CatalogHandler:start()
 	-- conflicted with a method name
 	self.b_endOfService = false
 	self.serviceUrl1 = "https://lightning-dev.mobiclip.com/front/service"					-- NERD (used for debug)
- 	self.serviceUrl = "https://yourserverurlgohere/front/catalog.json"                      -- custom server (put your catalog.json file path here)
+ 	self.serviceUrl = "https://https://github.com/The0zymandias/3dsanimechannelrelease/raw/main/catalog.json"                      -- custom server (put your catalog.json file path here)
 
 	-- Video player settings
 	self.downloadMaxAttempts = 1
