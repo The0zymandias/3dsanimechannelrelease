@@ -2,7 +2,7 @@ require 'scripts/helpers/httphelper.lua'
 require 'scripts/utils/ErrorConverter.lua'
 
 -- Set it to true for local catalog stored in debugcatalog.lua
-useDebugCatalog = true
+useDebugCatalog = false
 
 CatalogHandler = class(HttpHelper)
 
