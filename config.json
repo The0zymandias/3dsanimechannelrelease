@@ -1,0 +1,32 @@
+{
+        "settings": {
+                "theme": 0,
+                "language": "sy"
+        },
+        "playlists": [
+                {
+                        "name": "Your City Gave Me Asthma - Wilbur Soot",
+                        "file": [
+                                "sdmc:/music/Your City Gave Me Asthma - Wilbur Soot/1 - Saline Solution.mp3",
+                                "sdmc:/music/Your City Gave Me Asthma - Wilbur Soot/2 - Jubilee Line.mp3",
+                                "sdmc:/music/Your City Gave Me Asthma - Wilbur Soot/3 - Since I Saw Vienna.mp3",
+                                "sdmc:/music/Your City Gave Me Asthma - Wilbur Soot/4 - Your Sister Was Right.mp3",
+                                "sdmc:/music/Your City Gave Me Asthma - Wilbur Soot/5 - I'm Sorry Boris.mp3",
+                                "sdmc:/music/Your City Gave Me Asthma - Wilbur Soot/6 - Losing Face.mp3",
+                                "sdmc:/music/Your City Gave Me Asthma - Wilbur Soot/7 - La Jolla.mp3"
+                        ]
+                },
+                {
+                        "name": "Pebblebrain - Lovejoy",
+                        "file": [
+                                "sdmc:/music/Pebblebrain - Lovejoy/1 - Oh Yeah, You Gonna Cry.mp3",
+                                "sdmc:/music/Pebblebrain - Lovejoy/2 - Model Buses.mp3",
+                                "sdmc:/music/Pebblebrain - Lovejoy/3 - Concrete.mp3",
+                                "sdmc:/music/Pebblebrain - Lovejoy/4 - Perfume.mp3",
+                                "sdmc:/music/Pebblebrain - Lovejoy/5 - You'll Understand When you're Older.mp3",
+                                "sdmc:/music/Pebblebrain - Lovejoy/6 - The Fall.mp3",
+                                "sdmc:/music/Pebblebrain - Lovejoy/7 - It's All Futile! It's All Pointless!.mp3"
+                        ]
+                }
+        ]
+}
